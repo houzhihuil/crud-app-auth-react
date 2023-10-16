@@ -85,6 +85,5 @@ const Dashboard = ({ setIsAuthenticated }) => {
       )}
     </div>
   );
-};
-
+}; 
 export default Dashboard;
